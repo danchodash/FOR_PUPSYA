@@ -1,0 +1,231 @@
+
+
+  
+body{
+    font-family: 'Open Sans', sans-serif;
+    text-align:center;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+
+h2{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+p{
+    color:#B01E68;
+}
+
+/* Headings */
+
+.main-title{
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 4rem;
+    line-height: 1.5;
+    color:#fff;
+}
+
+.col-lg-6 .main-title {
+    text-align:left;
+}
+
+.section-heading{
+    font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Sections */
+
+.colored-section {
+    background-color:#B01E68;
+    color: #fff;
+  }
+  
+  .white-section {
+    background-color:#FFE15D;
+  }
+
+/* header */
+.header_text{
+    font-family:'Open Sans', sans-serif;
+    font-size: 5rem;
+    color: whitesmoke;
+}
+#title{
+    background-color:#B01E68;
+    height:700px;
+}
+#title:hover{
+    background-color: #F49D1A;
+    height:700px;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+.fa-brands{
+    padding:3px;
+}
+.navbar-menu{
+    align-self: left;
+}
+
+/* Peaches */
+.bottom_peach{
+    position:absolute;
+    right: 10%;
+    top:50%;
+}
+.bottom_peach:hover{
+    transform: rotate(45deg);
+}
+.top_peach{
+    position:absolute;
+    top:100px;
+    left:8%;
+    top: 22%;
+    transform: rotate(-45deg);
+}
+.top_peach:hover{
+    transform: rotate(-90deg);
+}
+
+/* Navbar Style */
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 900;
+    font-size:2.5rem;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-family: 'Montserrat-Light';
+    font-size: 1.2rem;
+}
+
+.dowload-button{
+    margin: 5% 3% 5% 0;
+}
+
+/* Features */
+
+.feature-heading{
+    padding: 3% 7%;
+}
+
+#features{
+    padding: 5% 15%;
+    text-align: center;
+    font-family:'Roboto', sans-serif;;
+    position:relative;
+    background-color: #FFE15D;
+}
+
+.feature-icon{
+    padding: 1rem;
+    color: #B01E68;
+    font-size: 4rem;
+}
+
+.feature-icon:hover{
+    color:#F49D1A;
+    font-size: 6rem;
+    transition: 0.3s ease-out;
+
+}
+
+.feature-title {
+    font-size: 1.5rem;
+  }
+
+h2{
+    line-height: 1.5;
+}
+
+/* Carousel-testimonials */
+.favourite-words-title{
+    margin-top: 2;
+    padding: 2% 7%;
+    font-size: 1rem;
+    line-height: 1;
+}
+#testimonials{
+    background-color:#B01E68 ;
+    text-align:center;
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.testimonial-image{
+    width:20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonial-text{
+    font-size: 5rem;
+    line-height: 1.5;
+}
+
+
+
+/* Ranking section */
+
+#ranking{
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 100;
+    line-height: 1rem;
+    padding: 5%;
+    background-color:#FFE15D !important;
+    color:#B01E68 !important;
+}
+
+.table-div{
+    padding: 4% 7%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+table{
+    color: white !important;
+    background-color: #B01E68 !important;
+    padding: 2%;
+}
+
+
+
+/* Footer */
+
+#footer{
+    padding: 0.5%;
+    background-color: #F49D1A;
+}
+
+.footer-text{
+    text-align:center;
+    font-family: 'Ubuntu';
+    margin: 1% 0 2%;
+    color:#2D2926;
+}
+
+.social-media-icons{
+    text-align:center;
+    font-size: 2rem;
+    padding:3% 0 0;
+    color: #2D2926;
+}
